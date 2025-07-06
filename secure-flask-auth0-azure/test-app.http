@@ -1,0 +1,9 @@
+### Simulate login (manual via browser recommended)
+
+### Access /protected with session cookie
+
+GET http://localhost:5000/protected
+
+### Simulate unauthorized access
+
+GET http://localhost:5000/protected
